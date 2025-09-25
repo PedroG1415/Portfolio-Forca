@@ -1,0 +1,26 @@
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.about, .skills, .projects {
+  background-color: #fff;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.skills ul, .projects ul {
+  list-style: none;
+}
+
+.skills li, .projects li {
+  margin-bottom: 0.5rem;
+}
